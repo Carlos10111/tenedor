@@ -9,3 +9,5 @@ console.log("   l   ")
 console.log("   l   ")
 console.log("   l   ")
 console.log("   l   ")
+
+console.log("El profe estuvo aqui");
